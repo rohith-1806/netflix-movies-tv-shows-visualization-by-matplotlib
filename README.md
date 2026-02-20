@@ -46,7 +46,7 @@ handling and storytelling through visual insights.
 
 <h2>Author</h2>
 <p>
-<strong>Perumalla Rohith.</strong>
+<strong>Perumalla Rohith</strong>
 </p>
 
 </body>
